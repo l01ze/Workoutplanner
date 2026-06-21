@@ -2,6 +2,8 @@
 
 A clean, minimalist web application designed to help you build, track, and optimize your workout routines. It combines a simple drag-and-drop feeling weekly tracker with a smart AI assistant that can instantly build custom workout splits or modify your routine on the fly.
 
+🚀 **[Open Live Application](https://l01ze.github.io/Workoutplanner/)**
+
 ## 🌟 Key Features
 
 * **AI Chat Assistant:** Type naturally (e.g., *"Create a 3-day push/pull/legs split"* or *"Swap squats for an alternative on Tuesday"*) to instantly generate or change your routine.
