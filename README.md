@@ -4,6 +4,12 @@ A clean, minimalist web application designed to help you build, track, and optim
 
 🚀 **[Open Live Application](https://l01ze.github.io/Workoutplanner/)**
 
+
+https://github.com/user-attachments/assets/9e4eba10-b81e-479a-866c-08d9036f767f
+
+
+
+
 ## 🌟 Key Features
 
 * **AI Chat Assistant:** Type naturally (e.g., *"Create a 3-day push/pull/legs split"* or *"Swap squats for an alternative on Tuesday"*) to instantly generate or change your routine.
