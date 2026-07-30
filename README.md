@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/9e4eba10-b81e-479a-866c-08d9036f767f
 To unlock the AI chat and program generation capabilities, you will need a **Grok API key**. 
 
 ### How to set it up:
-1. Get an API key from your **x.ai (Grok)** developer account dashboard.
+1. Get an API key from your **[Console.groq.com](https://console.groq.com/) (Groq)** developer account dashboard.
 2. Open the Workout Planner website.
 3. Click on the **Settings/API** menu button in the top corner.
 4. Paste your secret key token into the input field and save. 
